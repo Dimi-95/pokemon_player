@@ -4,5 +4,5 @@
 int main(){
 
 
-    std::cout << "Ronny und ihre badonkis sind smooth test hello" << std::endl;
+    std::cout << "Ronny und ihre badonkis sind smooth test" << std::endl;
 }
